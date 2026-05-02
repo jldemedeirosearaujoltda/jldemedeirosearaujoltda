@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ruan Kelvin 👋
 
-<!--
-**jldemedeirosearaujoltda/jldemedeirosearaujoltda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Analytics Engineer from Brazil 🇧🇷, focused on building reliable data pipelines and turning raw data into decisions.
 
-Here are some ideas to get you started:
+Currently working with **SQL · Power BI · dbt · Python** — and expanding into **AI Agent Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Stack
+
+- **Query & Modeling:** SQL (advanced), dbt
+- **Visualization:** Power BI (DAX, data modeling)
+- **Scripting:** Python
+- **Version Control:** Git / GitHub
+- **AI Agents & Automation:** n8n, OpenAI API, LLM orchestration
+- **Tools:** LangChain, prompt engineering, workflow automation
+
+---
+
+![Ruan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jldemedeirosearaujoltda&show_icons=true&theme=dark)
+
+---
+
+### 📍 Natal, Brazil 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruan%20Kelvin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruan-kelvin-8209b51b6/)
