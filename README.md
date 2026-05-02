@@ -17,7 +17,7 @@ Currently working with **SQL · Power BI · dbt · Python** — and expanding in
 
 ---
 
-![Ruan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jldemedeirosearaujoltda&show_icons=true&theme=dark)
+![Ruan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jldemedeirosearaujoltda&show_icons=true&theme=dark&count_private=true)
 
 ---
 
