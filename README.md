@@ -17,10 +17,6 @@ Currently working with **SQL · Power BI · dbt · Python** — and expanding in
 
 ---
 
-![Ruan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jldemedeirosearaujoltda&show_icons=true&theme=dark&count_private=true)
-
----
-
 ### 📍 Natal, Brazil 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruan%20Kelvin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruan-kelvin-8209b51b6/)
